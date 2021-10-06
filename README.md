@@ -1,5 +1,7 @@
 Demo application to demonstrate an issue using the spring-javaformat checkstyle rules with `switch` expressions.
 
+&rarr; https://github.com/spring-io/spring-javaformat/issues/300
+
 ## Issue
 
 The default spring-javaformat checkstyle rules includes the `SpringLambdaCheck` which throws the following exception if
