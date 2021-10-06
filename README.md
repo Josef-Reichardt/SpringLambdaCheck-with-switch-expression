@@ -34,4 +34,4 @@ A full code example could be found in this repository:
 
 ## Workaround
 
-Exclude the `SpringLambdaCheck`, see comment in [`checkstyle.xml`](checkstyle.xml).
+Exclude the `SpringLambdaCheck`, see comment in [`checkstyle.xml`](checkstyle.xml#L10).
